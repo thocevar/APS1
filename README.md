@@ -1,4 +1,4 @@
-# Algoritmi in podatkovne strukture 1 (APS1)
+### Algoritmi in podatkovne strukture 1 (APS1)
 
 Tomaž Hočevar  
 Univerza v Ljubljani, Fakulteta za računalništvo in informatiko  
